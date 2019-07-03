@@ -11,7 +11,6 @@ namespace Lessons
         static void Main(string[] args)
         {
             Console.WriteLine("Привет, мир!");
-            Console.WriteLine("Как дела?");
         }
     }
 }
